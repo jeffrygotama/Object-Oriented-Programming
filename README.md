@@ -2,14 +2,10 @@
 
 #Concept:
 
-1. Encapsulation
-
-Class membungkus attribute dan member function ke dalam object, yang bertujuan untuk information hiding.
+1. Encapsulation, Class membungkus attribute dan member function ke dalam object, yang bertujuan untuk information hiding.
 
 
-2. Inheritence
-
-Membuat tipe class baru dari tipe class yang sudah ada.
+2. Inheritence, Membuat tipe class baru dari tipe class yang sudah ada.
 
 
 3. Polymorphism
